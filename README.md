@@ -6,7 +6,9 @@ Please do cite it if you find this project useful. :)
 
 
 ## DataSet Used
-* [Argentinian Sign Language Gestures](https://facundoq.github.io/datasets/lsa64/). The dataset is made available strictly for academic purposes by the owners. Please read the license terms carefully and cite their paper if you plan to use the dataset.
+* [Word Level American Sign Language](https://www.kaggle.com/datasets/risangbaskoro/wlasl-processed). The WLASL data is intended for academic and computational use only. No commercial usage is allowed. Made by Dongxu Li and Hongdong Li. Licensed under the Computational Use of Data Agreement (C-UDA).
+
+
 
 ## Requirements
 * Install [opencv](https://docs.opencv.org/trunk/d7/d9f/tutorial_linux_install.html).
@@ -35,28 +37,23 @@ For example:
 
 ```
 train_videos
-├── Accept
-│   ├── 050_003_001.mp4
-│   ├── 050_003_002.mp4
-│   ├── 050_003_003.mp4
-│   └── 050_003_004.mp4
-├── Appear
-│   ├── 053_003_001.mp4
-│   ├── 053_003_002.mp4
-│   ├── 053_003_003.mp4
-│   └── 053_003_004.mp4
-├── Argentina
-│   ├── 024_003_001.mp4
-│   ├── 024_003_002.mp4
-│   ├── 024_003_003.mp4
-│   └── 024_003_004.mp4
-└── Away
-    ├── 013_003_001.mp4
-    ├── 013_003_002.mp4
-    ├── 013_003_003.mp4
-    └── 013_003_004.mp4
-```
+├── Balance
+│   ├── 04795.mp4
+│   ├── 04803.mp4
+│   ├── 04806.mp4
+│   └── 65129.mp4
+├── Banana
+│   ├── 04900.mp4
+│   ├── 04903.mp4
+│   ├── 65134.mp4
+│   └── 65135.mp4
+├── Pizza
+│   ├── 42958.mp4
+│   ├── 42959.mp4
+│   ├── 42977.mp4
+│   └── 69431.mp4
 
+```
 
 
 ### 2. Extracting frames
