@@ -8,7 +8,7 @@ Please do cite it if you find this project useful. :)
 ## DataSet Used
 * [Word Level American Sign Language](https://www.kaggle.com/datasets/risangbaskoro/wlasl-processed). The WLASL data is intended for academic and computational use only. No commercial usage is allowed. Made by Dongxu Li and Hongdong Li. Licensed under the Computational Use of Data Agreement (C-UDA).
 ## OUR DATASET
-*-(ISL)https://drive.google.com/file/d/1nNw6CJjo1U96QqRojxvDXtikNJI7-dWs/view?usp=sharing
+*ISL-https://drive.google.com/file/d/1nNw6CJjo1U96QqRojxvDXtikNJI7-dWs/view?usp=sharing
 * WLASL-https://drive.google.com/file/d/1B5CCE-GS8-rB8oTuwk4FMjW4UQCA7JWa/view?usp=sharing
   
 
